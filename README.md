@@ -1,4 +1,29 @@
-## Hi there 👋
+ Hi 👋 I'm Huma Amjad
+
+🎓 Mathematics Graduate  
+💻 Learning Python, NumPy and Data Analysis  
+📊 Interested in Applied Mathematics & Data Science  
+🌍 From Pakistan  
+
+ Skills
+- Python
+- NumPy
+- Data Analysis
+- Mathematics
+- Problem Solving
+
+
+
+Currently Learning
+- Python Programming
+- Scientific Computing
+- Data Visualization
+
+
+
+
+ Connect With Me
+- GitHub: https://github.com/Huma-16
 
 <!--
 **Huma-16/Huma-16** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
